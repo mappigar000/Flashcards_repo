@@ -1,9 +1,12 @@
 import json
-from utils.helpers import add_card
+from utils.helpers import add_card, save_settings, load_settings
 
 def main():
     with open("flashcards.json", "r") as f:
         flashcards = json.load(f)
+
+    settings = load_settings()
+    save_settings(settings)
 
     while True:
         user_input = input("Enter a command\n")
