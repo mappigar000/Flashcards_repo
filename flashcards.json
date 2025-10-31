@@ -1,8 +1,19 @@
-{
-    "question": "what is a compoopoo",
-    "answer": "iz a compooppoor",
-    "tags": [
-        "compooppoors",
-        "tech"
-    ]
-}
+[
+    {
+        "question": "blah",
+        "answer": "pee",
+        "tags": [
+            "c",
+            "u",
+            "p"
+        ]
+    },
+    {
+        "question": "a",
+        "answer": "b",
+        "tags": [
+            "c",
+            "d"
+        ]
+    }
+]

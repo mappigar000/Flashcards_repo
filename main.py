@@ -2,16 +2,18 @@ import json
 from utils.helpers import add_card
 
 def main():
+    with open("flashcards.json", "r") as f:
+        flashcards = json.load(f)
+
     while True:
         user_input = input("Enter a command\n")
 
         if user_input == "add":
-            add_card()
+            add_card(flashcards)
 
         elif user_input == "print":
             with open("flashcards.json", "r") as f:
                 flashcards = json.load(f)
-
             print(flashcards)
 
         elif user_input == "quit":
