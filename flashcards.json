@@ -1,19 +1,18 @@
 [
     {
-        "question": "blah",
-        "answer": "pee",
+        "question": "What is DHCP?",
+        "answer": "DHCP stands for Dynamic Host Configuration Protocol and exists on Port 67 and 68",
         "tags": [
-            "c",
-            "u",
-            "p"
+            "abbreviations",
+            "protocols"
         ]
     },
     {
-        "question": "a",
-        "answer": "b",
+        "question": "What is HTTP",
+        "answer": "HTTP stands for Hypertext Transfer Protocol and exists on port 80",
         "tags": [
-            "c",
-            "d"
+            "abbreviations",
+            "protocols"
         ]
     }
 ]
