@@ -1,6 +1,6 @@
 [
     {
-        "question": "What is DHCP?",
+        "question": "DHCP",
         "answer": "DHCP stands for Dynamic Host Configuration Protocol and exists on Port 67 and 68",
         "tags": [
             "abbreviations",
@@ -8,10 +8,10 @@
         ]
     },
     {
-        "question": "What is HTTP",
+        "question": "HTTP",
         "answer": "HTTP stands for Hypertext Transfer Protocol and exists on port 80",
         "tags": [
-            "abbreviations",
+            "abbreviations,,",
             "protocols"
         ]
     }
