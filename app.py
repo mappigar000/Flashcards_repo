@@ -4,6 +4,7 @@ from core.flashcard_manager import load_flashcards
 from core.utils import window_sizer, make_grid_expandable
 from ui.main_menu import main_menu_screen
 from ui.card_screen import CardScreen
+from ui.practice_screen import PracticeScreen
 from ui.settings_screen import settings_screen
 
 
@@ -28,11 +29,14 @@ class FlashBabyApp:
     def show_main_menu(self):
         main_menu_screen(self)
 
+    def show_practice_screen(self):
+        PracticeScreen(self.root, self.flashcards, self.settings)
+
     def show_card_screen(self):
         CardScreen(self.root, self.flashcards, self.settings)
 
     def show_settings(self):
-        settings_screen(self)
+        settings_screen()
 
     def run(self):
         self.root.mainloop()
