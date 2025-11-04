@@ -147,7 +147,8 @@ class CardScreen:
 
         question = self.question_text.get("1.0", "end").strip()
         answer = self.answer_text.get("1.0", "end").strip()
-        tags = self.tags_entry.get().split()
+        tags = self.tags_entry.get().replace(',', '').split()
+
 
         item_id = selected[0]
         # Update Treeview

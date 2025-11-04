@@ -1,7 +1,7 @@
 [
     {
         "question": "DHCP",
-        "answer": "DHCP stands for Dynamic Host Configuration Protocol and exists on Port 67 and 68",
+        "answer": "Dynamic Host Configuration Protocol",
         "tags": [
             "abbreviations",
             "protocols"
@@ -9,10 +9,93 @@
     },
     {
         "question": "HTTP",
-        "answer": "HTTP stands for Hypertext Transfer Protocol and exists on port 80",
+        "answer": "Hypertext Transfer Protocol",
         "tags": [
-            "abbreviations,",
+            "abbreviations",
             "protocols"
+        ]
+    },
+    {
+        "question": "AAA",
+        "answer": "Authentication, Authorization, and Accounting",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "ACL",
+        "answer": "Access Control List",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "ADF",
+        "answer": "Automatic Document Feeder",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "AES",
+        "answer": "Advanced Encryption Standard",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "AMD",
+        "answer": "Advanced Micro Devices, Inc.",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "AP",
+        "answer": "Access Point",
+        "tags": [
+            "abbreviations",
+            "wirelessnetwork"
+        ]
+    },
+    {
+        "question": "APFS ",
+        "answer": "Apple File System",
+        "tags": [
+            "abbreviations",
+            "OS"
+        ]
+    },
+    {
+        "question": "APIPA",
+        "answer": "Automatic Private Internet Protocol Addressing",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "ARM",
+        "answer": "Advanced RISC [Reduced Instruction Set Computer] Machine",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "ATX",
+        "answer": "Advanced Technology Extended",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "motherboard"
+        ]
+    },
+    {
+        "question": "AUP",
+        "answer": "Acceptable Use Policy",
+        "tags": [
+            "abbreviations"
         ]
     }
 ]
