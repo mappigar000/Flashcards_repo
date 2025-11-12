@@ -4,10 +4,11 @@ from core.flashcard_manager import FLASHCARD_FILE
 from core.utils import make_grid_expandable, window_sizer
 
 class CardScreen:
-    def __init__(self, root, flashcards, settings):
+    def __init__(self, root, flashcards, settings, tags):
         self.root = root
         self.flashcards = flashcards
         self.settings = settings
+        self.tags = tags
 
         self.win = Toplevel(root)
         self.win.title("Cards")
@@ -172,4 +173,4 @@ class CardScreen:
 
     def add_card_screen(self):
         from ui.add_card_screen import AddCardScreen
-        AddCardScreen(self.root, self.flashcards, self.refresh_tree)
+        AddCardScreen(self.root, self.flashcards, self.refresh_tree, self.tags)

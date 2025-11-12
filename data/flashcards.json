@@ -1,7 +1,7 @@
 [
     {
-        "question": "DHCP",
-        "answer": "Dynamic Host Configuration Protocol",
+        "question": "APIPA",
+        "answer": "Automatic Private Internet Protocol Addressing",
         "tags": [
             "abbreviations",
             "protocols"
@@ -16,22 +16,16 @@
         ]
     },
     {
-        "question": "AAA",
-        "answer": "Authentication, Authorization, and Accounting",
+        "question": "APFS ",
+        "answer": "Apple File System",
         "tags": [
-            "abbreviations"
+            "abbreviations",
+            "OS"
         ]
     },
     {
         "question": "ACL",
         "answer": "Access Control List",
-        "tags": [
-            "abbreviations"
-        ]
-    },
-    {
-        "question": "ADF",
-        "answer": "Automatic Document Feeder",
         "tags": [
             "abbreviations"
         ]
@@ -44,10 +38,26 @@
         ]
     },
     {
-        "question": "AMD",
-        "answer": "Advanced Micro Devices, Inc.",
+        "question": "ADF",
+        "answer": "Automatic Document Feeder",
         "tags": [
             "abbreviations"
+        ]
+    },
+    {
+        "question": "ARM",
+        "answer": "Advanced RISC [Reduced Instruction Set Computer] Machine",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "DHCP",
+        "answer": "Dynamic Host Configuration Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
         ]
     },
     {
@@ -59,27 +69,24 @@
         ]
     },
     {
-        "question": "APFS ",
-        "answer": "Apple File System",
+        "question": "AMD",
+        "answer": "Advanced Micro Devices, Inc.",
         "tags": [
-            "abbreviations",
-            "OS"
+            "abbreviations"
         ]
     },
     {
-        "question": "APIPA",
-        "answer": "Automatic Private Internet Protocol Addressing",
+        "question": "AAA",
+        "answer": "Authentication, Authorization, and Accounting",
         "tags": [
-            "abbreviations",
-            "protocols"
+            "abbreviations"
         ]
     },
     {
-        "question": "ARM",
-        "answer": "Advanced RISC [Reduced Instruction Set Computer] Machine",
+        "question": "AUP",
+        "answer": "Acceptable Use Policy",
         "tags": [
-            "abbreviations",
-            "protocols"
+            "abbreviations"
         ]
     },
     {
@@ -92,10 +99,1643 @@
         ]
     },
     {
-        "question": "AUP",
-        "answer": "Acceptable Use Policy",
+        "question": "BEC",
+        "answer": "Business Email Compromise",
         "tags": [
             "abbreviations"
+        ]
+    },
+    {
+        "question": "BIOS",
+        "answer": "Basic Input/Output System",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "BNC",
+        "answer": "Bayonet Neill-Concelman",
+        "tags": [
+            "abbreviations",
+            "cable"
+        ]
+    },
+    {
+        "question": "BSOD",
+        "answer": "Blue Screen of Death",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "BYOD",
+        "answer": "Bring Your Own Device",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "CAC",
+        "answer": "Calling-card Authorization Computer",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "CIFS",
+        "answer": "Common Internet File System",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "CMDB",
+        "answer": "Configuration Management Database",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "CMOS",
+        "answer": "Complementary Metal-Oxide Semiconductor",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "motherboard"
+        ]
+    },
+    {
+        "question": "CNAME",
+        "answer": "Canonical Name",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "CPU",
+        "answer": "Central Processing Unit",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "cpu"
+        ]
+    },
+    {
+        "question": "DB-9",
+        "answer": "Serial Communications D-Shell Connector, 9 pins",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "DDoS",
+        "answer": "Distributed Denial of Service",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "DDR",
+        "answer": "Double Data Rate",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "memory"
+        ]
+    },
+    {
+        "question": "DIMM",
+        "answer": "Dual In-line Memory Module",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "memory"
+        ]
+    },
+    {
+        "question": "DKIM",
+        "answer": "DomainKeys Identified Mail",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "DLP",
+        "answer": "Data Loss Prevention",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "DMARC",
+        "answer": "Domain-based Message Authentication, Reporting, and Conformance",
+        "tags": [
+            "abbreviations",
+            "protocols",
+            "security"
+        ]
+    },
+    {
+        "question": "DNS",
+        "answer": "Domain Name System",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "DoS",
+        "answer": "Denial of Service",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "DRM",
+        "answer": "Digital Rights Management",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "DSL",
+        "answer": "Digital Subscriber Line",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "DVI",
+        "answer": "Digital Visual Interface",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "ECC",
+        "answer": "Error-correcting Code",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "memory",
+            "storage"
+        ]
+    },
+    {
+        "question": "EDR",
+        "answer": "Endpoint Detection and Response",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "EFS",
+        "answer": "Encrypting File System",
+        "tags": [
+            "abbreviations",
+            "OS",
+            "security"
+        ]
+    },
+    {
+        "question": "EOL",
+        "answer": "End-of-life",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "eSATA",
+        "answer": "External Serial Advanced Technology Attachment",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "ESD",
+        "answer": "Electrostatic Discharge",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "EULA",
+        "answer": "End-user License Agreement",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "exFAT",
+        "answer": "Extended File Allocation Table",
+        "tags": [
+            "abbreviations",
+            "storage"
+        ]
+    },
+    {
+        "question": "FAT32",
+        "answer": "32-bit File Allocation Table",
+        "tags": [
+            "abbreviations",
+            "storage"
+        ]
+    },
+    {
+        "question": "FRT",
+        "answer": "Facial Recognition Technology",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "FTP",
+        "answer": "File Transfer Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "GFS",
+        "answer": "Grandfather-Father-Son",
+        "tags": [
+            "abbreviations",
+            "storage"
+        ]
+    },
+    {
+        "question": "GPS",
+        "answer": "Global Positioning System",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "GPT",
+        "answer": "GUID [Globally Unique Identifier] Partition Table",
+        "tags": [
+            "abbreviations",
+            "storage"
+        ]
+    },
+    {
+        "question": "GPU",
+        "answer": "Graphics Processing Unit",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "gpu"
+        ]
+    },
+    {
+        "question": "GUID",
+        "answer": "Globally Unique Identifier",
+        "tags": [
+            "abbreviations",
+            "storage"
+        ]
+    },
+    {
+        "question": "HD",
+        "answer": "High Definition",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "HDD",
+        "answer": "Hard Disk Drive",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "storage"
+        ]
+    },
+    {
+        "question": "HDMI",
+        "answer": "High-definition Media Interface",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "HSM",
+        "answer": "Hardware Security Module",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "security"
+        ]
+    },
+    {
+        "question": "HTTPS",
+        "answer": "Hypertext Transfer Protocol Secure",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "IaaS",
+        "answer": "Infrastructure as a Service",
+        "tags": [
+            "abbreviations",
+            "cloud"
+        ]
+    },
+    {
+        "question": "IAM",
+        "answer": "Identity and Access Management",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "IMAP",
+        "answer": "Internet Mail Access Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "IOPS",
+        "answer": "Input/Output Operations Per Second",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "IoT",
+        "answer": "Internet of Things",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "IP",
+        "answer": "Internet Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "IPS",
+        "answer": "In-plane Switching",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "IR",
+        "answer": "Infrared",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "ISO",
+        "answer": "International Organization for Standardization",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "ITX",
+        "answer": "Information Technology eXtended",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "motherboard"
+        ]
+    },
+    {
+        "question": "KVM",
+        "answer": "Keyboard-Video-Mouse",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "LAN",
+        "answer": "Local Area Network",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "LC",
+        "answer": "Lucent Connector",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "LCD",
+        "answer": "Liquid Crystal Display",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "LDAP",
+        "answer": "Lightweight Directory Access Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "LED",
+        "answer": "Light-emitting Diode",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "LTE",
+        "answer": "Long-Term Evolution",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "MAC",
+        "answer": "Media Access Control",
+        "tags": [
+            "abbreviations",
+            "hardware"
+        ]
+    },
+    {
+        "question": "MAN",
+        "answer": "Metropolitan Area Network",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "MBR",
+        "answer": "Master Boot Record",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "storage"
+        ]
+    },
+    {
+        "question": "MDM",
+        "answer": "Mobile Device Management",
+        "tags": [
+            "abbreviations",
+            "software"
+        ]
+    },
+    {
+        "question": "MDR",
+        "answer": "Managed Detection and Response",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "MFA",
+        "answer": "Multifactor Authentication",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "MFP",
+        "answer": "Multifunction Printer",
+        "tags": [
+            "abbreviations",
+            "peripherals",
+            "printers"
+        ]
+    },
+    {
+        "question": "MMC",
+        "answer": "Microsoft Management Console",
+        "tags": [
+            "abbreviations",
+            "software"
+        ]
+    },
+    {
+        "question": "MNDA",
+        "answer": "Mutual Non-disclosure Agreement",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "mSATA",
+        "answer": "Mini-serial Advanced Technology Attachment",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "MSDS",
+        "answer": "Material Safety Data Sheet",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "MX",
+        "answer": "Mail Exchange",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "NAC",
+        "answer": "Network Access Control",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "NDA",
+        "answer": "Non-disclosure Agreement",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "NetBIOS",
+        "answer": "Network Basic Input/Output System",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "NFC",
+        "answer": "Near-field Communication",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "NIC",
+        "answer": "Network Interface Card",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "network"
+        ]
+    },
+    {
+        "question": "NTFS",
+        "answer": "New Technology File System",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "NTP",
+        "answer": "Network Time Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "NVMe",
+        "answer": "Non-volatile Memory Express",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "memory"
+        ]
+    },
+    {
+        "question": "OLED",
+        "answer": "Organic Light-emitting Diode",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "ONT",
+        "answer": "Optical Network Terminal",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "OS",
+        "answer": "Operating System",
+        "tags": [
+            "abbreviations",
+            "OS"
+        ]
+    },
+    {
+        "question": "OTP",
+        "answer": "One-time Password (or Passcode)",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "PaaS",
+        "answer": "Platform as a Service",
+        "tags": [
+            "abbreviations",
+            "cloud"
+        ]
+    },
+    {
+        "question": "PAM",
+        "answer": "Privileged Access Management",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "PAN",
+        "answer": "Personal Area Network",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "PC",
+        "answer": "Personal Computer",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "PCI",
+        "answer": "Peripheral Component Interconnect",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "motherboard"
+        ]
+    },
+    {
+        "question": "PCIe",
+        "answer": "Peripheral Component Interconnect Express",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "motherboard"
+        ]
+    },
+    {
+        "question": "PCL",
+        "answer": "Printer Command Language",
+        "tags": [
+            "abbreviations",
+            "peripherals",
+            "printers"
+        ]
+    },
+    {
+        "question": "PII",
+        "answer": "Personally Identifiable Information",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "PIN",
+        "answer": "Personal Identification Number",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "PIV",
+        "answer": "Personal Identity Verification",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "PoE",
+        "answer": "Power over Ethernet",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "POP",
+        "answer": "Post Office Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "POST",
+        "answer": "Power-on Self-test",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "motherboard"
+        ]
+    },
+    {
+        "question": "PSU",
+        "answer": "Power Supply Unit",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "psu"
+        ]
+    },
+    {
+        "question": "PUP",
+        "answer": "Potentially Unwanted Program",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "PXE",
+        "answer": "Preboot eXecution Environment",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "QoS",
+        "answer": "Quality of Service",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "RADIUS",
+        "answer": "Remote Authentication Dial-in User Server",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "RAID",
+        "answer": "Redundant Array of Independent Disks",
+        "tags": [
+            "abbreviations",
+            "storage",
+            "security"
+        ]
+    },
+    {
+        "question": "RAM",
+        "answer": "Random-access Memory",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "memory"
+        ]
+    },
+    {
+        "question": "RDP",
+        "answer": "Remote Desktop Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "ReFS",
+        "answer": "Resilient File System",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "RFID",
+        "answer": "Radio-frequency Identification",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "RGB",
+        "answer": " Red-Green-Blue",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "RISC",
+        "answer": "Reduced Instruction Set Computer",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "cpu"
+        ]
+    },
+    {
+        "question": "RJ11",
+        "answer": "Registered Jack Function 11",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "RJ45",
+        "answer": " Registered Jack Function 45",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "RMM",
+        "answer": "Remote Monitoring and Management",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "RPM",
+        "answer": "Revolutions Per Minute",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "storage"
+        ]
+    },
+    {
+        "question": "RSR",
+        "answer": "Rapid Security Response",
+        "tags": [
+            "abbreviations",
+            "ios"
+        ]
+    },
+    {
+        "question": "SaaS",
+        "answer": "Software as a Service",
+        "tags": [
+            "abbreviations",
+            "cloud"
+        ]
+    },
+    {
+        "question": "SAML",
+        "answer": "Security Assertions Markup Language",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "SAN",
+        "answer": "Storage Area Network",
+        "tags": [
+            "abbreviations",
+            "storage",
+            "network"
+        ]
+    },
+    {
+        "question": "SAS",
+        "answer": "Serial Attached SCSI [Small Computer System Interface]",
+        "tags": [
+            "abbreviations",
+            "storage",
+            "cables"
+        ]
+    },
+    {
+        "question": "SATA",
+        "answer": "Serial Advanced Technology Attachment",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "SC",
+        "answer": "Subscriber Connector",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "SCADA",
+        "answer": "Supervisory Control and Data Acquisition",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "SCSI",
+        "answer": "Small Computer System Interface",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "SD",
+        "answer": "Secure Digital",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "storage"
+        ]
+    },
+    {
+        "question": "SFTP",
+        "answer": "Secure File Transfer Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "SIM",
+        "answer": "Subscriber Identity Module",
+        "tags": [
+            "abbreviations",
+            "network",
+            "cellular"
+        ]
+    },
+    {
+        "question": "SLA",
+        "answer": "Service-level Agreement",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "S.M.A.R.T",
+        "answer": "Self-monitoring Analysis and Reporting Technology",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "SMB",
+        "answer": "Server Message Block",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "SMS",
+        "answer": "Short Message Service",
+        "tags": [
+            "abbreviations",
+            "software"
+        ]
+    },
+    {
+        "question": "SMTP",
+        "answer": "Simple Mail Transfer Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "SODIMM",
+        "answer": "Small Outline Dual In-line Memory Module",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "memory"
+        ]
+    },
+    {
+        "question": "SOHO",
+        "answer": "Small Office/Home Office",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "SOP",
+        "answer": "Standard Operating Procedure",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "SPF",
+        "answer": "Sender Policy Framework",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "SPICE",
+        "answer": "Software Process Improvement and Capability Determination",
+        "tags": [
+            "abbreviations",
+            "software"
+        ]
+    },
+    {
+        "question": "SQL",
+        "answer": "Structured Query Language",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "SSD",
+        "answer": "Solid-state Drive",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "storage"
+        ]
+    },
+    {
+        "question": "SSH",
+        "answer": "Secure Shell",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "SSID",
+        "answer": "Service Set Identifier",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "SSO",
+        "answer": "Single Sign-on",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "ST",
+        "answer": "Straight Tip",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "TACACS",
+        "answer": "Terminal Access Controller Access-control System",
+        "tags": [
+            "abbreviations",
+            "protocols",
+            "security"
+        ]
+    },
+    {
+        "question": "TCP",
+        "answer": "Transmission Control Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "TKIP",
+        "answer": "Temporal Key Integrity Protocol",
+        "tags": [
+            "abbreviations",
+            "network",
+            "security"
+        ]
+    },
+    {
+        "question": "TN",
+        "answer": "Twisted Nematic",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "TOTP",
+        "answer": "Time-based One-time Password",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "TPM",
+        "answer": "Trusted Platform Module",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "motherboard"
+        ]
+    },
+    {
+        "question": "TXT",
+        "answer": "Text",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "UAC",
+        "answer": "User Account Control",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "UDP",
+        "answer": "User Datagram Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "UEFI",
+        "answer": "Unified Extensible Firmware Interface",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "UPnP",
+        "answer": "Universal Plug and Play",
+        "tags": [
+            "abbreviations",
+            "protocols",
+            "network"
+        ]
+    },
+    {
+        "question": "UPS",
+        "answer": "Uninterruptible Power Supply",
+        "tags": [
+            "abbreviations",
+            "peripherals"
+        ]
+    },
+    {
+        "question": "USB",
+        "answer": "Universal Serial Bus",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "USB-C",
+        "answer": "Universal Serial Bus Type C",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "UTM",
+        "answer": "Unified Threat Management",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "VA",
+        "answer": "Vertical Alignment",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "VDI",
+        "answer": "Virtual Desktop Infrastructure",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "VGA",
+        "answer": "Video Graphics Array",
+        "tags": [
+            "abbreviations",
+            "cables"
+        ]
+    },
+    {
+        "question": "VLAN",
+        "answer": "Virtual LAN [Local Area Network]",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "VM",
+        "answer": "Virtual Machine",
+        "tags": [
+            "abbreviations",
+            "hardware"
+        ]
+    },
+    {
+        "question": "VNC",
+        "answer": "Virtual Network Computer",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "VoIP",
+        "answer": "Voice over Internet Protocol",
+        "tags": [
+            "abbreviations",
+            "protocols"
+        ]
+    },
+    {
+        "question": "VPN",
+        "answer": "Virtual Private Network",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "VRAM",
+        "answer": "Video Random-access Memory",
+        "tags": [
+            "abbreviations",
+            "hardware",
+            "memory"
+        ]
+    },
+    {
+        "question": "WAN",
+        "answer": "Wide Area Network",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "WAP",
+        "answer": "Wireless Access Point",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "WinRM",
+        "answer": "Windows Remote Management",
+        "tags": [
+            "abbreviations",
+            "network"
+        ]
+    },
+    {
+        "question": "WISP",
+        "answer": "Written Internet Service Provider",
+        "tags": [
+            "abbreviations",
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "WLAN",
+        "answer": "Wireless LAN [Local Area Network]",
+        "tags": [
+            "abbreviations",
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "WPA",
+        "answer": "Wi-Fi Protected Access",
+        "tags": [
+            "abbreviations",
+            "wireless",
+            "security"
+        ]
+    },
+    {
+        "question": "WWAN",
+        "answer": "Wireless Wide Area Network",
+        "tags": [
+            "abbreviations",
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "XaaS",
+        "answer": "Anything As A Service",
+        "tags": [
+            "abbreviations",
+            "cloud"
+        ]
+    },
+    {
+        "question": "XDR",
+        "answer": "Extended Detection and Response",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "XFS",
+        "answer": "Extended File System",
+        "tags": [
+            "abbreviations"
+        ]
+    },
+    {
+        "question": "XXS",
+        "answer": "Cross-site Scripting",
+        "tags": [
+            "abbreviations",
+            "security"
+        ]
+    },
+    {
+        "question": "Troubleshooting methodology",
+        "answer": "\u2022 Identify the problem.\n\u2022 Establish a theory of probable cause (question the obvious).\n  - Research knowledge base/internet, if applicable.\n\u2022 Test the theory to determine the cause.\n\u2022 Establish a plan of action to resolve the problem and implement the solution.\n\u2022 Verify full system functionality and, if applicable, implement preventive measures.\n\u2022 Document findings/lessons learned, actions, and outcomes.",
+        "tags": [
+            "troubleshooting"
+        ]
+    },
+    {
+        "question": "Remove malware procedure",
+        "answer": "1. Investigate and verify\nmalware symptoms.\n2. Quarantine infected system.\n3. Disable System Restore in Windows\nHome.\n4. Remediate infected systems.\n5. Update anti-malware software.\n6. Scan and removal techniques\n(e.g., safe mode, preinstallation\nenvironment)\n7. Reimage/reinstall.\n8. Schedule scans and run updates.\n9. Enable System Restore and create\na restore point in Windows Home.\n10. Educate the end user.",
+        "tags": [
+            "procedure",
+            "malware"
+        ]
+    },
+    {
+        "question": "FTP port(s)",
+        "answer": "20 & 21",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "SSH port(s)",
+        "answer": "22",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "Telnet port(s)",
+        "answer": "23",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "SMTP port(s)",
+        "answer": "25",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "DNS port(s)",
+        "answer": "53",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "DHCP port(s)",
+        "answer": "67 & 68",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "HTTP port(s)",
+        "answer": "80",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "POP3 port(s)",
+        "answer": "110",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "IMAP port(s)",
+        "answer": "143",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "NetBIOS/NetBT port(s)",
+        "answer": "137-139",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "LDAP port(s)",
+        "answer": "389",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "HTTPS port(s)",
+        "answer": "443",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "SMB/CIFS port(s)",
+        "answer": "445",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "RDP port(s)",
+        "answer": "3389",
+        "tags": [
+            "protocols",
+            "ports"
+        ]
+    },
+    {
+        "question": "802.11 (legacy)",
+        "answer": "Frequency: 2.4GHz\nData Rate: 2Mbps\nRange: 20m\nNotes: obsolete",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11a",
+        "answer": "Frequency: 5GHz\nData Rate: 54Mbps\nRange: 35m\nNotes: first OFDM modulation, less interferance but shorter range",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11b",
+        "answer": "Frequency: 2.4GHz\nData Rate: 11Mbps\nRange: 40m\nNotes: early standard, uses DSSS, interference from bluetooth and\nmicrowaves",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11g",
+        "answer": "Frequency: 2.4GHz\nData Rate: 54Mbps\nRange: 40m\nNotes: backward compatible with 802.11b, uses OFDM",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11n",
+        "answer": "Frequency: 2.4/5 GHz\nData Rate: 600Mbps\nRange: 70m\nNotes: aka Wi-Fi 4, uses MIMO and channel bonding",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11ac",
+        "answer": "Frequency: 5GHz\nData Rate: 6.9Gbps\nRange: 35m\nNotes: aka Wi-Fi 5, uses MU-MIMO, wider channels, and beamforming",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11ax",
+        "answer": "Frequency: 2.4/5 GHz\nData Rate: 9.6Gbps\nRange: 70m\nNotes: aka Wi-Fi 6, OFDMA, more efficient, better in wi-fi dense\nzones",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11be",
+        "answer": "Frequency: 2.4/5/6 GHz\nData Rate: 46Gbps\nRange: 70m\nNotes: aka Wi-Fi 7, multi-link, 320Mhz channels, 16-stream MIMO, low latency",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11ad",
+        "answer": "Frequency: 60GHz\nData Rate: 7Gbps\nRange: 10m\nNotes: short range high speed use cases like VR and wireless docking",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11ay",
+        "answer": "Frequency: 60GHz\nData Rate: 100Gbps\nRange: 100m\nNotes: improved 802.11ad and adds backhaul",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11af",
+        "answer": "Frequency: sub-1GHz\nData Rate: 568Gbps\nRange: 10km\nNotes: rural broadband, cognitive radio, long range",
+        "tags": [
+            "wireless",
+            "network"
+        ]
+    },
+    {
+        "question": "802.11ah",
+        "answer": "Frequency: sub-1GHz\nData Rate: 347Gbps\nRange: 1km\nNotes: used for IoT/LPWAN, low power, long range, high capacity",
+        "tags": [
+            "wireless",
+            "network"
         ]
     }
 ]

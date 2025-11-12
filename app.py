@@ -1,6 +1,7 @@
 import tkinter as tk
 from core.settings_manager import load_settings, save_settings
 from core.flashcard_manager import load_flashcards
+from core.tags_manager import load_tags, update_tags
 from core.utils import window_sizer, make_grid_expandable
 from ui.main_menu import main_menu_screen
 from ui.card_screen import CardScreen
@@ -21,6 +22,8 @@ class FlashBabyApp:
         self.settings = load_settings()
         save_settings(self.settings)
         self.flashcards = load_flashcards(self.settings["flashcardpack"])
+        update_tags(self.flashcards)
+        self.tags = load_tags()
 
         # Start at main menu
         main_menu_screen(self)
@@ -30,10 +33,10 @@ class FlashBabyApp:
         main_menu_screen(self)
 
     def show_practice_screen(self):
-        PracticeScreen(self.root, self.flashcards, self.settings)
+        PracticeScreen(self.root, self.flashcards, self.settings, self.tags)
 
     def show_card_screen(self):
-        CardScreen(self.root, self.flashcards, self.settings)
+        CardScreen(self.root, self.flashcards, self.settings, self.tags)
 
     def show_settings(self):
         settings_screen()

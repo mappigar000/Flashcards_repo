@@ -4,10 +4,11 @@ from core.flashcard_manager import FLASHCARD_FILE
 from core.utils import make_grid_expandable, window_sizer
 
 class PracticeScreen:
-    def __init__(self, root, flashcards, settings):
+    def __init__(self, root, flashcards, settings, tags):
         self.root = root
         self.flashcards = flashcards
         self.settings = settings
+        self.tags = tags
 
         random.shuffle(self.flashcards)
 

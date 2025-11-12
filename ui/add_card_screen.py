@@ -6,10 +6,11 @@ from core.utils import window_sizer, make_grid_expandable
 ADD_CARD_ENTRY_WIDTH = 50  # make sure this constant is defined somewhere
 
 class AddCardScreen:
-    def __init__(self, root, flashcards, refresh_tree):
+    def __init__(self, root, flashcards, refresh_tree, tags):
         self.root = root
         self.flashcards = flashcards
         self.refresh_tree = refresh_tree
+        self.tags = tags
 
         self.win = Toplevel(self.root)
         self.win.title("Add New Card")
